@@ -32,7 +32,8 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: rgb(29, 26, 26);
+
   }
 
   #move{
@@ -43,7 +44,7 @@ ul {
   #login{
 
     margin-left: 25%;
-    background-image: url(cat.png);
+    background-image: url(login.png);
     background-size: 10px;
     background-position: left;
     background-repeat: no-repeat;
