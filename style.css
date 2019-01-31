@@ -1,0 +1,54 @@
+body {
+margin: 0%;
+
+}
+
+header {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80%;
+    font-weight: bold;
+    font-kerning: normal;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  #move{
+
+    margin-left: 10%;
+  }
+  
+  #login{
+
+    margin-left: 25%;
+    background-image: url(cat.png);
+    background-size: 10px;
+    background-position: left;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+
+  
+ 
